@@ -394,3 +394,8 @@ height: 0.2rem;
         display: none;
 }
 }
+@media only screen and (max-width: 600px) {
+    .main-content{
+        height: auto;
+    }
+  }
